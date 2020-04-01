@@ -1,4 +1,4 @@
-# WhaleJaguar
+# WJ
 
 News categorization:
 
