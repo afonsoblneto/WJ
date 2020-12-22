@@ -18,7 +18,9 @@ Each notebook is commented and also there is PDF file "Data Analysis.pdf" that c
 
 In the case of this analysis reproduction, you can just run those files following the same order of reading above described.
 
-Enjoy .
+Enjoy.
+
+Fixed.
 
 Afonso Lima.
 
